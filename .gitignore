@@ -4,4 +4,5 @@ script/d3rlpy_logs_2
 script/tensorboard_logs
 script/tensorboard_logs_2
 script/test logs
+script/logs
 data/episFormula
