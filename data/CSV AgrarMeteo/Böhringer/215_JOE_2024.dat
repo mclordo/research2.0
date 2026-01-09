@@ -1,0 +1,4 @@
+"TOA5","215_JOE","CR800","47286","CR800.Std.32.05","CPU:Acker_V2_72b.CR8","42956","LTZ"
+"TIMESTAMP","RECORD","AirTC_Avg","RH_Avg","Rain_mm_Tot","SlrW_Avg","LWmV_Avg","WS_ms_S_WVT","WindDir_D1_WVT","WindDir_SD1_WVT","T107_C_Avg","T107_C_SOIL_Avg","VWC_Avg","EC_Max","TB20_Avg","WS_ms_Max"
+"TS","RN","Deg C","%","mm","W/m^2","mV","meters/second","Deg","Deg","Deg C","","l/l","dS/m","","meters/second"
+"","","Avg","Avg","Tot","Avg","Avg","WVc","WVc","WVc","Avg","Avg","Avg","Max","Avg","Max"
