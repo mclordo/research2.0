@@ -1,4 +1,0 @@
-Algorithmus,Modell,Error %,Within ±10min %,Within ±20min %,Within ±30min %,Median Offset (min),Mean Offset (min),Std Offset (min),Ideal Irrigations,Model Triggers,Missed,Extra Triggers,Errors (>±90min)
-IQL_20260125030703,IQL_20260125030703/model_200000.d3,89.47,18.75,41.67,58.33,15.7,25.46,33.23,456,154,311,9,97
-PLAS_20260125090813,PLAS_20260125090813/model_200000.d3,97.59,0.0,0.0,27.27,33.41,31.75,41.04,456,67,389,0,56
-BCQ_20260125043112,BCQ_20260125043112/model_200000.d3,99.12,25.0,25.0,25.0,26.2,13.13,56.61,456,41,415,0,37
